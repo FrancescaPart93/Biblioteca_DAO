@@ -1,0 +1,3 @@
+AUTORE SELEZIONATO: 
+
+[codiceA = 2, nomeA = Lev, cognomeA = Tolstoi, annoN = 1828, annoM = 1910, sesso = M, nazione = Russia]

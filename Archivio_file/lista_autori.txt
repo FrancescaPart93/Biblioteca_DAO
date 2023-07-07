@@ -1,0 +1,10 @@
+LISTA AUTORI: [
+[codiceA = 1, nomeA = Alessandro, cognomeA = Manzoni, annoN = 1785, annoM = 1873, sesso = M, nazione = Italia], 
+[codiceA = 2, nomeA = Lev, cognomeA = Tolstoi, annoN = 1828, annoM = 1910, sesso = M, nazione = Russia], 
+[codiceA = 3, nomeA = Bruno, cognomeA = Vespa, annoN = 1785, annoM = 1873, sesso = M, nazione = Italia], 
+[codiceA = 4, nomeA = Stephen, cognomeA = King, annoN = 1947, annoM = 0, sesso = M, nazione = America], 
+[codiceA = 5, nomeA = Ernest, cognomeA = Hemingway, annoN = 1899, annoM = 1899, sesso = M, nazione = America], 
+[codiceA = 6, nomeA = Umberto, cognomeA = Eco, annoN = 1785, annoM = 1873, sesso = M, nazione = Italia], 
+[codiceA = 7, nomeA = Susanna, cognomeA = Tamaro, annoN = 1957, annoM = 0, sesso = F, nazione = Italia], 
+[codiceA = 8, nomeA = Virginia, cognomeA = Woolf, annoN = 1882, annoM = 1941, sesso = F, nazione = Inghilterra], 
+[codiceA = 9, nomeA = Agatha, cognomeA = Christie, annoN = 1890, annoM = 1976, sesso = F, nazione = Inghilterra]]
