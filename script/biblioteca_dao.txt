@@ -17,7 +17,7 @@ CREATE TABLE Autore (
 
 
 CREATE TABLE Genere(
-CodiceG VARCHAR(10) PRIMARY KEY,
+CodiceG INT PRIMARY KEY,
 Descrizione VARCHAR(30)
 );
 
